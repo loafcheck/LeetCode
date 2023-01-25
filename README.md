@@ -4,7 +4,7 @@
 ## Tier1
 | Type              |         Page |
 | ----------------- | ----------------- |
-| Array             |                   |
+| Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum)|
 |String             |                   |
 |Tree               |                   |
 
