@@ -1,2 +1,26 @@
 # LeetCode
+
+
+## Tier1
+| Type              |         Page |
+| ----------------- | ----------------- |
+| Array             |                   |
+|String             |                   |
+|Tree               |                   |
+
+## Tier2
+| Type              |              Page |
+| ----------------- | ----------------- |
+|Graphs             |                   |
+|Matric             |                   |
+|Dynamic Programming|                   |
+
+## Tier3
+| Type              |         Page |
+| ----------------- | ----------------- |
+| Binary            |                   |
+|Linked Lists       |                   |
+
+
+
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
