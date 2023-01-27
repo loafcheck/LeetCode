@@ -4,7 +4,7 @@
 ## Tier1
 | Type              |         Page |
 | ----------------- | ----------------- |
-| Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum)|
+| Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum), [Permutation](https://github.com/loafcheck/LeetCode/tree/main/1920-build-array-from-permutation)|
 |String             |                   |
 |Tree               |                   |
 
