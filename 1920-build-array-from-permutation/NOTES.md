@@ -1,6 +1,10 @@
-//go through nums array -> for loop
-//make blank output array
-//for each i putting -> replace it with new i
+
+#### pseudocode
+1. go through nums array -> for loop
+2. make blank output array
+3. for each i putting -> replace it with new i
+
+
 ~~~
 function permutation (nums) {
   let output = [];
