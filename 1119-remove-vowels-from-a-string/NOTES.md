@@ -1,8 +1,8 @@
-1.we have to make given string s into an array
-2.we need to use Regex (Regular Expressions) to check whether if the given string contains [aeiou]
-3.go through the loop of the string 
-4.match and compare to see if there is a vowel in the given array
-5.return new string without the vowel.
+1. we have to make given string s into an array 
+2. we need to use Regex (Regular Expressions) to check whether if the given string contains [aeiou]
+3. go through the loop of the string 
+4. match and compare to see if there is a vowel in the given array
+5. return new string without the vowel.
 
 
 [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
