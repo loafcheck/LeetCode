@@ -5,7 +5,7 @@
 5.return new string without the vowel.
 
 
-Regular Expressions
+[Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
 let reg = /[aeiou]/
 let reg = /[aeiou]/i -The regular expression includes the i flag so that upper/lower case differences will be ignored.
 let reg = /[aeiou]/g - global flag allows you to check every characters [a, e, i, o, u] in the array. if you don't use g flag it will only check once. 
@@ -13,7 +13,7 @@ let reg = /[aeiou]/g - global flag allows you to check every characters [a, e, i
 regex: regular expression 정규표현식 
 The indexOf() method returns the first index at which a given element can be found in the array, or -1 if it is not present.
 
-indexOf
+[indexOf](https://www.w3schools.com/jsref/jsref_indexof.asp)
 Definition and Usage
 The indexOf() method returns the position of the first occurrence of a value in a string.
 
