@@ -5,7 +5,7 @@
 | Type              |         Page |
 | ----------------- | ----------------- |
 | Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum), [Permutation](https://github.com/loafcheck/LeetCode/tree/main/1920-build-array-from-permutation)|
-|String             |                   |
+|String             |[remove vowels](https://github.com/loafcheck/LeetCode/tree/main/1119-remove-vowels-from-a-string)                   |
 |Tree               |                   |
 
 ## Tier2
