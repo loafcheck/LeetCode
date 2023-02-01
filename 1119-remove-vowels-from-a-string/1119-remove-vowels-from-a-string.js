@@ -9,7 +9,7 @@ remove
 make a new string
 
 Character classes
-Character classes distinguish kinds of characters such as, for example, distinguishing between letters and digits.
+Character classes distinguish kinds of characters for example-> distinguishing between letters and digits.
 let reg = /[aeiou]/
 let reg = /[aeiou]/i -The regular expression includes the i flag so that upper/lower case differences will be ignored.
 let reg = /[aeiou]/g - global flag allows you to check every characters [a, e, i, o, u] in the array. if you don't use g flag it will only check once. 
