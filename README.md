@@ -6,7 +6,7 @@
 | ----------------- | ----------------- |
 | Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum), [Permutation](https://github.com/loafcheck/LeetCode/tree/main/1920-build-array-from-permutation)|
 |String             |[remove vowels](https://github.com/loafcheck/LeetCode/tree/main/1119-remove-vowels-from-a-string), [RomanToInteger](https://github.com/loafcheck/LeetCode/tree/main/0013-roman-to-integer), [IPaddress](https://github.com/loafcheck/LeetCode/tree/main/1108-defanging-an-ip-address)                  |
-|Tree [Range Sum of BST] (https://github.com/loafcheck/LeetCode/tree/main/0938-range-sum-of-bst)               |                   |
+|Tree               |[RangeSumofBST] (https://github.com/loafcheck/LeetCode/tree/main/0938-range-sum-of-bst)                |
 
 ## Tier2
 | Type              |              Page |
