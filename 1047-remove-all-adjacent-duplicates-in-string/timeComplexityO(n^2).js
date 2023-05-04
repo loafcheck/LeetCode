@@ -1,3 +1,5 @@
+//Wrong answer due to time exceed!
+
 var removeDuplicates = function(s) {
     const splitS = s.split('');
     let temp = splitS;
