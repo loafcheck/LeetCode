@@ -6,6 +6,7 @@ var majorityElement = function(nums) {
     let count = 0;
     let candidate = null;
 
+    //find the candidate
     for (let num of nums) {
         if (count === 0) {
             candidate = num;
@@ -13,7 +14,7 @@ var majorityElement = function(nums) {
         count += (num === candidate) ? 1 : -1;
     }
 
-    // Verification step to ensure the candidate is the majority element
+//count candidate
     count = 0;
     for (let num of nums) {
         if (num === candidate) {
