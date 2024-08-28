@@ -2,7 +2,7 @@
 
 This repository contains my solutions and practice exercises for various LeetCode problems. It serves as a record of my progress and continuous learning in algorithmic problem-solving.
 
-## Tier1
+## Category
 | Type              |         Page |
 | ----------------- | ----------------- |
 | Array             | [TwoSum](https://github.com/loafcheck/LeetCode/tree/main/0001-two-sum), [Permutation](https://github.com/loafcheck/LeetCode/tree/main/1920-build-array-from-permutation)|
