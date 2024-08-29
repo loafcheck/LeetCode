@@ -1,6 +1,6 @@
 # LeetCode Practice Repository
 
-This repository contains my solutions and practice exercises for various LeetCode problems. It serves as a record of my progress and continuous learning in algorithmic problem-solving.
+This repository contains my solutions and practice exercises for various LeetCode problems. It serves as a record of my progress and continuous learning in algorithmic problem-solving
 
 ### Category
 | Type              |         Page |
